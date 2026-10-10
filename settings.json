@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",mcglifesteal.aternos.me:33011
+    "ip": "your.server.ip",mcglifesteal.aternos.me
     "port": 33011,
     "version": "",
     "try-creative": false
